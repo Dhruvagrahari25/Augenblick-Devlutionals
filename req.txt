@@ -1,8 +1,7 @@
-streamlit
-numpy
-scikit-learn
-pickle5
-tenserflow
+streamlit 
+pandas 
+numpy 
+plotly 
+librosa 
 matplotlib
-librosa
-pandas
+tensorflow
